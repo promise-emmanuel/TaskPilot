@@ -4,7 +4,7 @@ This software was developed as a means to enhance my understanding of the Java p
 
 I designed and built a simple console-based task manager to demonstrate and practice key concepts such as variables, expressions, conditionals, loops, functions, classes, and data structures with Java. Along with these fundamentals, I implemented file input/output functionality as a stretch challenge to deepen my understanding of Java's built-in libraries.
 
-The purpose behind writing this software si to create a functional task management tool and to solidify my grasp of Java syntax and programming paradigms. By building this prokect, I was able to learn more about code organization, user input handling, and persistent data storage, which are essential componoents in developing more complex software systems.
+The purpose behind writing this software is to create a functional task management tool and to solidify my grasp of Java syntax and programming paradigms. By building this prokect, I was able to learn more about code organization, user input handling, and persistent data storage, which are essential componoents in developing more complex software systems.
 
 [Software Demo Video](https://youtu.be/F9lZdAlubEg)
 
